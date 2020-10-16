@@ -3,7 +3,7 @@ quantity = len(number)
 copy = number
 number = int(number)
 word = set()
-som = ["а если тут", "mb da"]
+som = ["а если тут", "mb da", "прием с мака"]
 
 for rank in range(1, quantity):
 	dis = copy[rank:quantity]
