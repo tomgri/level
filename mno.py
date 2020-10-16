@@ -48,3 +48,4 @@ for rank in range(1, quantity):
 							elif factor == i and not word:
 								word.clear()
 		
+print("The end")
