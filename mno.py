@@ -47,5 +47,3 @@ for rank in range(1, quantity):
 									word.clear()
 							elif factor == i and not word:
 								word.clear()
-		
-print("The end")
