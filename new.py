@@ -3,7 +3,7 @@ quantity = len(number)
 copy = number
 number = int(number)
 word = set()
-molly = []
+
 for rank in range(1, quantity):
 	dis = copy[rank:quantity]
 	if dis[0] != "0":	
