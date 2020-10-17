@@ -1,4 +1,4 @@
-number = input("Введите число:")
+number = input("Введите число: ")
 quantity = len(number)
 copy = number
 number = int(number)
